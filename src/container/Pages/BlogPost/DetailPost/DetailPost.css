@@ -1,0 +1,18 @@
+.detail-post{
+    margin: 10px;
+    padding: 12px 20px;
+    border-radius: 9px;
+    background-color: rgb(251, 253, 255);
+    border: 1px solid rgb(199, 199, 199);
+}
+.post-title{
+    font-size: 28px;
+    color: rgb(44, 44, 44);
+    font-weight: bold;
+    margin-top: -5px;
+    text-transform: capitalize;
+}
+.post-body{
+    font-size: 16px;
+    color: rgb(82, 82, 82);
+}
